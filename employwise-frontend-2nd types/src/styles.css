@@ -1,0 +1,6 @@
+.container { text-align: center; max-width: 400px; margin: auto; padding: 20px; }
+input, button { display: block; width: 100%; margin: 10px 0; padding: 10px; }
+button { cursor: pointer; background-color: blue; color: white; }
+.logout-btn { background-color: red; }
+.avatar { width: 80px; height: 80px; border-radius: 50%; }
+.delete-btn { background-color: red; }
